@@ -1,4 +1,4 @@
-# Social Media Addiction Analysis
+# Social Media Impact Analysis
 
 # Description
 This project analyzes the impact of social media addiction on students’ **mental health and academic performance** using Python and Streamlit.
